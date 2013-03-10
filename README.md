@@ -13,9 +13,6 @@ interface in console window.
 
 Features
 --------
-
-Data Structures
---------
 The record manager uses two data files: the database file (with a .db extension) and the catalog file (with a .cat extension). The database file is a sequence of blocks that stores records, and the catalog file stores the structure of the database.
 The information in the catalog file tells the file manager how to read the database file. It contains the number of attributes of a table, their types, their lengths, and their names. The catalog will also store statistics about the table. In this case, the only relevant statistic is the number of rows in the table.
 The database will contain tuples with four attributes:
