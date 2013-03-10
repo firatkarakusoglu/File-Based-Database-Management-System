@@ -11,8 +11,6 @@ record manager.
 Records and operation results are displayed in a human readable format by a good looking user
 interface in console window.
 
-![solution explorer](http://gitscc.codeplex.com/Project/Download/FileDownload.aspx?DownloadId=123874)
-
 Features
 --------
 
