@@ -8,8 +8,7 @@ files, paging, caching and insert, select, update and delete operations.
 Concurrency and large files (files that has size more than the memory) are not supported in simple
 record manager.
 
-Records and operation results are displayed in a human readable format by a good looking user
-interface in console window.
+Records and operation results are displayed in human readable format.
 
 Features
 --------
