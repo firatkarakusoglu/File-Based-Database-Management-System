@@ -1,0 +1,4 @@
+File-Based-Database-Management-System
+=====================================
+
+File based database management system supports catalog files, paging, caching and insert, select, update and delete operations. Concurrency and large files (files that has size more than the memory) are not supported in simple record manager.database system implementation. It supports catalog files, paging, caching and insert, select, update and delete operations. Concurrency and large files (files that has size more than the memory) are not supported in simple record manager.supports catalog files, paging, caching and insert, select, update and delete operations. Concurrency and large files (files that has size more than the memory's capacity) are not supported in this system.
